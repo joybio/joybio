@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Hi there!"; "I hope you're having a great day!")](https://git.io/typing-svg)
-
 ![joybio's GitHub stats](https://github-readme-stats.vercel.app/api?username=joybio&show_icons=true&theme=radical)
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=joybio" /> </div>
