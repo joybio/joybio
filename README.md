@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **joybio/joybio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello👋! I hope you're having a great day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Hi there!"; "I hope you're having a great day!")](https://git.io/typing-svg)
+
 
 <div align="center"> <img src="https://metrics.lecoq.io/joybio?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
