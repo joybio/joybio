@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/joybio?template=classic&config.timezone=Asia%2FBeijing"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/joybio?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ![joybio's GitHub stats](https://github-readme-stats.vercel.app/api?username=joybio&show_icons=true&theme=radical)
 
