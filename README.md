@@ -11,6 +11,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joybio/count.svg" />
 </p>
-## Star History
-
-##[![Star History Chart](https://api.star-history.com/svg?repos=joybio/multiPrime&type=Date)](https://star-history.com/#joybio/multiPrime&Date)
